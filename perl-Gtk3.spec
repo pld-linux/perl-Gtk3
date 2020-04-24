@@ -16,7 +16,7 @@ URL:		http://gtk2-perl.sourceforge.net/
 BuildRequires:	perl-ExtUtils-MakeMaker >= 6.30
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
-BuildRequires:	rpmbuild(macros) >= 1.192
+BuildRequires:	rpmbuild(macros) >= 1.745
 %if %{with tests}
 BuildRequires:	perl-Cairo-GObject >= 1.000
 BuildRequires:	perl-Glib >= 1.260

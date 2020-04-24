@@ -6,12 +6,12 @@
 Summary:	Perl interface to the 3.x series of the Gimp Toolkit library
 Summary(pl.UTF-8):	Interfejs perlowy do wersji 3.x biblioteki Gimp Toolkit
 Name:		perl-Gtk3
-Version:	0.035
+Version:	0.037
 Release:	1
 License:	LGPL v2.1+
 Group:		Development/Languages/Perl
 Source0:	http://downloads.sourceforge.net/gtk2-perl/%{pdir}-%{version}.tar.gz
-# Source0-md5:	9532a7939f21ece4e47d77a2e2fc44cc
+# Source0-md5:	f763cbaf35c33f907bfc1d723d606b30
 URL:		http://gtk2-perl.sourceforge.net/
 BuildRequires:	perl-ExtUtils-MakeMaker >= 6.30
 BuildRequires:	perl-devel >= 1:5.8.0
